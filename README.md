@@ -24,4 +24,4 @@ Filtros: año y mes de pago, concepto (periodo de asignación), EPS y régimen.
 ## Notas
 
 - La carga de Excel necesita conexión a internet (usa la librería SheetJS desde su CDN). El resto funciona sin conexión.
-- `index.html` lleva los datos de giros incluidos. En un repositorio público, cualquiera con el enlace puede verlos.
+- `index.html` cuenta con una ventana de ingreso con contraseña (`EdelmanCOLOMBIA`) para restringir el acceso al tablero y proteger la visualización de los datos.
